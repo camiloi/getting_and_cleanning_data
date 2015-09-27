@@ -1,6 +1,8 @@
 # getting_and_cleaning_data
 course project
 this is the course project of courseras getting and cleaning data course
+
+
 the data used is avible here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
  
 the objetive was create one R script called run_analysis.R that does the following. 
@@ -11,3 +13,5 @@ the objetive was create one R script called run_analysis.R that does the followi
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 the result is a txt file called tidy_data
+
+more info at code book
